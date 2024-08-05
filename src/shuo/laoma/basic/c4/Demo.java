@@ -7,6 +7,7 @@ public class Demo {
 	 */
 	public static void main(String[] args) {
 		int a = 25; 
+		// Integer包装类的使用方法:使用对应的转换方法
 		System.out.println(Integer.toBinaryString(a)); //二进制
 		System.out.println(Integer.toHexString(a));  //十六进制
 		System.out.println(Long.toBinaryString(a)); //二进制
