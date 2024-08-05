@@ -16,6 +16,7 @@ public class BaseV1 {
 			add(num);
 		}
 	}
+	// 以上代码没有问题,但count最好还是初始化为0,而addAll初始化对应的数组(使用add方法)
 }
 
 
