@@ -1,7 +1,7 @@
 package shuo.laoma.basic.c12;
 
 public class Sum {
-
+	// 求和
 	public static int sum(int a, int b) {
 		int c = a + b;
 		return c;
