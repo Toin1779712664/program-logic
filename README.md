@@ -1,9 +1,5 @@
 # program-logic
 
-所有文章已整理完善成书，由机械工业出版社华章分社出版，欢迎购买！各大网点有售，京东购买链接：
-
-https://item.jd.com/12299018.html
-
 ![](./img/f640.jpg)
 
 书中完整代码导航：https://github.com/swiftma/program-logic/blob/master/the_logic_of_java_programming.md
@@ -23,8 +19,5 @@ https://item.jd.com/12299018.html
 * 正则表达式：shuo.laoma.regex
 * Java 8新特性：shuo.laoma.java8
 
-QQ交流群：574974775，备注"编程"
-
-微信交流群：先加老马微信 swiftma，备注"编程"
 
 所有文章列表：http://t.im/laoma
