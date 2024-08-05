@@ -3,7 +3,7 @@ package shuo.laoma.cls.c13;
 public class Point {
 	private int x;
 	private int y;
-	
+	// 构造方法
 	public Point(){
 		this(0, 0);
 	}
@@ -34,6 +34,7 @@ public class Point {
 	}
 	
 	public static void main(String[] args){
+		// 使用构造方法
 		Point p1 = new Point();
 		p1.setX(2);
 		p1.setY(3);
