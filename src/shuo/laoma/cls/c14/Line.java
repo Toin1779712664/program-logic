@@ -1,5 +1,6 @@
 package shuo.laoma.cls.c14;
 
+	// 线的声明
 public class Line {
 	private Point start;
 	private Point end;
