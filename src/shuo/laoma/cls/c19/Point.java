@@ -1,5 +1,5 @@
 package shuo.laoma.cls.c19;
-
+// 实现MyComparable接口的compareTo功能
 public class Point implements MyComparable {
 	private int x;
 	private int y;
@@ -12,7 +12,7 @@ public class Point implements MyComparable {
 	public double distance(){
 		return Math.sqrt(x*x+y*y);
 	}
-
+	
 	@Override
 	public int compareTo(Object other) {
 		if(!(other instanceof Point)){
