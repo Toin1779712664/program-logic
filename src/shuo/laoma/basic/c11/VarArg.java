@@ -6,7 +6,7 @@ public class VarArg {
 		// 返回最大的值
 	    int max = min;
 	    for(int i=0;i<a.length;i++){
-	        if(max<a[i]){	如果当前的值小于a[i]的值那么将max设置为当前最大的这个值
+	        if(max<a[i]){	// 如果当前的值小于a[i]的值那么将max设置为当前最大的这个值
 	            max = a[i];
 	        }
 	    }
